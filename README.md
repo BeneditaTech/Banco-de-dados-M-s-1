@@ -1,2 +1,3 @@
 # Banco-de-dados-Mes-1
 O arquivo analisado corresponde a uma chave de serviço do Firebase no formato JSON, utilizada para autenticação e integração segura entre a aplicação e os serviços da plataforma Firebase. Esse arquivo contém informações de identificação do projeto, credenciais de acesso e configurações necessárias para que o sistema possa se comunicar com recursos como banco de dados, autenticação de usuários e armazenamento em nuvem. Sua utilização é fundamental para garantir o funcionamento adequado das funcionalidades que dependem da infraestrutura do Firebase.
+O código não será acrescentado aqui pois contém dados credenciais privados.
